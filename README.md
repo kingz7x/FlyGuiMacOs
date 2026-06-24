@@ -49,7 +49,7 @@ A modern Roblox utility hub featuring a sleek interface, Fly Hack, NoClip, playe
 Execute the script using your preferred Roblox executor.
 
 ```lua
-loadstring(game:HttpGet("YOUR_SCRIPT_URL_HERE"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kingz7x/FlyGuiMacOs/refs/heads/main/Main.lua"))()
 ```
 
 Or paste the source directly into your executor.
@@ -78,4 +78,3 @@ Or paste the source directly into your executor.
 
 Created by **7xkng**
 
-UI modifications and enhancements by the Bananao Hub community.
